@@ -2,7 +2,6 @@
 #' a Gaussian finite mixture model from Mclust
 #' 
 #' @param score List of scID scores for target cells
-
 #' @return List of matching cells
 #' @export
 final_populations <- function(score) {
